@@ -1,1 +1,2 @@
 # Tic-Tac-Toe
+Tic-Tac-Toe is a classic two-player game played on a 3x3 grid. Players take turns marking spaces with their respective symbols, typically 'X' and 'O', with the objective of getting three of their symbols in a row, column, or diagonal. The game ends when one player achieves this goal or when the grid is full and no more moves can be made, resulting in a draw. Tic-Tac-Toe is a simple yet engaging game that challenges players to think strategically and anticipate their opponent's moves.
